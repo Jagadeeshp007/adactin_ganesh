@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50534" started-at="2021-10-05T12:53:45 IST" finished-at="2021-10-05T12:54:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50534" started-at="2021-10-05T12:53:45 IST" finished-at="2021-10-05T12:54:36 IST">
+      <class name="org.TestNG_file.TestNg_Project">
+        <test-method status="PASS" signature="configure()[pri:0, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="configure" is-config="true" duration-ms="1000" started-at="2021-10-05T12:53:45 IST" finished-at="2021-10-05T12:53:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configure -->
+        <test-method status="PASS" signature="browser_Lunch()[pri:0, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="browser_Lunch" is-config="true" duration-ms="13752" started-at="2021-10-05T12:53:46 IST" finished-at="2021-10-05T12:54:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_Lunch -->
+        <test-method status="PASS" signature="home_Page()[pri:1, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="home_Page" duration-ms="6548" started-at="2021-10-05T12:54:00 IST" finished-at="2021-10-05T12:54:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_Page -->
+        <test-method status="PASS" signature="search_hotel()[pri:2, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="search_hotel" duration-ms="5616" started-at="2021-10-05T12:54:07 IST" finished-at="2021-10-05T12:54:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_hotel -->
+        <test-method status="PASS" signature="select_Hotel()[pri:3, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="select_Hotel" duration-ms="2086" started-at="2021-10-05T12:54:12 IST" finished-at="2021-10-05T12:54:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Hotel -->
+        <test-method status="PASS" signature="book_Now()[pri:4, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="book_Now" duration-ms="4094" started-at="2021-10-05T12:54:14 IST" finished-at="2021-10-05T12:54:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book_Now -->
+        <test-method status="PASS" signature="book_Confirm()[pri:5, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="book_Confirm" duration-ms="11036" started-at="2021-10-05T12:54:18 IST" finished-at="2021-10-05T12:54:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book_Confirm -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="browser_close" is-config="true" duration-ms="4368" started-at="2021-10-05T12:54:29 IST" finished-at="2021-10-05T12:54:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="flush_1()[pri:0, instance:org.TestNG_file.TestNg_Project@32eebfca]" name="flush_1" is-config="true" duration-ms="1876" started-at="2021-10-05T12:54:34 IST" finished-at="2021-10-05T12:54:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush_1 -->
+      </class> <!-- org.TestNG_file.TestNg_Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
